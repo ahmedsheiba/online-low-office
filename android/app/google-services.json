@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033003422873",
+    "project_id": "low-office",
+    "storage_bucket": "low-office.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033003422873:android:908dea2dc7da98caf71408",
+        "android_client_info": {
+          "package_name": "com.example.low_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sqdsbYLxbz3dtpkP7IDEUnPngX5pOk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
